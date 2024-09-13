@@ -19,3 +19,4 @@ And this is my Portofolio:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+<bold>PS: The statics hasn't been updated.</bold>
