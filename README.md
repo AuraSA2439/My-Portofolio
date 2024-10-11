@@ -12,6 +12,12 @@ And this is my Portofolio:
 - How to reach me: ...
 - Fun fact about me: I'm actually more leaning to design/front-end, but instead I'm trying to get my qualification on back-end XD
 
+### My Projects
+
+- <a href="https://github.com/AuraSA2439/Radiology-Information-System">Radiology Information System</a>
+- <a href="https://github.com/AuraSA2439/Hospital-Website-with-Sidebar-pratice-">Hospital Profile Website with Resposive Side Menu</a>
+- <a href="https://github.com/AuraSA2439/washwiz">Laundry Application (Unfinished)</a>
+
 ### Github Statistic
 <p align="left">
 <!-- <a href="https://github.com/penuliscode">
