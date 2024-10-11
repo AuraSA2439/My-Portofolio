@@ -1,5 +1,4 @@
 ### About Me
-
 <b>Hey there! I am Aura SA</b>
 
 A student at Telkom University who is into design and webnovels. Adding to that I'm quite adept at front-end with HTML/CSS as my main code language.<br>
@@ -11,7 +10,7 @@ And this is my Portofolio:
 - What I'm looking to collaborate on: Haven't thought about it
 - What I'm looking for help with: None currently
 - Ask me about: Anime, games, webnovels (especially chinese ones)
-- How to reach me: ...
+- How to reach me: <a href="https://www.linkedin.com/in/aura-sukma-aulia-a078a4252/">Linkedin</a>
 - Fun fact about me: I'm actually more leaning to design/front-end, but instead I'm trying to get my qualification on back-end XD
 
 ### My Projects
