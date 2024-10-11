@@ -1,6 +1,7 @@
 ### About Me
 
 <b>Hey there! I am Aura SA</b>
+
 A student at Telkom University who is into design and webnovels. Adding to that I'm quite adept at front-end with HTML/CSS as my main code language.<br>
 
 And this is my Portofolio:
